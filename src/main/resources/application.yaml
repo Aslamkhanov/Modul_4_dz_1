@@ -1,0 +1,5 @@
+doctor:
+  dentistPrice: 1500
+  therapistPrice: 500
+  juniorSurgeonPrice: 700
+  seniorSurgeonPrice: 2000
